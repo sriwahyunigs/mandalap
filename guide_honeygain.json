@@ -1,0 +1,241 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob": "ca-app-pub-4264468460916165/1734832734",
+      "open_ads_alien": "null",
+      "switch_open_ads": "1",
+
+      "main_ads_banner": "ca-app-pub-4264468460916165/6987159416",
+      "main_ads_intertitial": "ca-app-pub-4264468460916165/1698301576",
+      "main_ads_natives": "ca-app-pub-4264468460916165/7006221153",
+
+      "backup_ads_banner": "dd52b209a357ddbc",
+      "backup_ads_intertitial": "96393a77d2cb45a0",
+      "backup_ads_natives": "null",
+
+      "interval_intertitial": "0",
+      "counter_intertitial": "0",
+
+      "switch_banner_natives_ads": "2",
+      "start_position_native_ads": "2",
+      "interval_native_ads": "3",
+
+      "random_list": "0",
+      "on_off_category": "0",
+      "on_off_moreapp": "1",
+
+      "one_signal_api_key": "null",
+      "link_moreapp": "https://play.google.com/store/apps/developer?id=Mandala+Pro",
+
+      "child_direct_gdpr": "true",
+
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+
+      "protect_app": "false",
+      "base_64_license_key": "null",
+
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id": 2,
+      "title": "Mercedes Benz Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/ywguAxBRKSXh7Lp78gRSqRXRrtZ9yyIcKDupDXMCiDdo5FIRoZh-nD49E6hLesK9pn0=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.mercedesbenzwallpaperhd"
+    },
+    {
+      "id": 1,
+      "title": "PROPS Id Sakura School Simulator",
+      "image": "https://play-lh.googleusercontent.com/i9w0EYM1PTM5oMuD9ODCN4hy7X-ucJvAxgG6j_DoYmZUillwEI80nHCx3nX3lee6Rpw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.sakuraschoolsimulatorpropsidblink"
+    }
+  ],
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/gambar/ic_awal.webp"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Passive Income from Your Internet",
+      "image": "file:///android_asset/gambar/ic_awal.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Passive Income from Your Internet Connection",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "JumpTask Honeygain",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More JumpTask Honeygain",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "What is JumpTask Mode Honeygain?",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More What is JumpTask Mode Honeygain?",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "10 Tips To Maximize Earnings",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More 10 Tips To Maximize Earnings On Honeygain",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Ultimate Guide to earning $100 a Month",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/5.webp",
+      "description": "Read More Ultimate Guide to earning $100 a Month",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Guide To Honeygain For Beginners",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/6.webp",
+      "description": "Read More Complete Guide To Honeygain For Beginners",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Tips How to Maximize your Earnings",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/7.webp",
+      "description": "Read More Tricks on How to Maximize your Earnings",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Lucky Pot Honeygain",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Lucky Pot Honeygain",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "11 Proven Ways to Increase Earnings",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "11 Proven Ways to Increase Your Earnings Honeygain",
+      "link": "file:///android_asset/guide/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Proof of Bitcoin Payout & Processing",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More Proof of Bitcoin Payout & Processing Time",
+      "link": "file:///android_asset/guide/guide10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "Proof of Paypal Payout & Processing",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More Proof of Paypal Payout & Processing Time",
+      "link": "file:///android_asset/guide/guide11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "How do you get a 5 dollar Honeygain?",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/5.webp",
+      "description": "Read More How do you get a 5 dollar Honeygain Earn",
+      "link": "file:///android_asset/guide/guide12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "Make Money Doing Nothing",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/6.webp",
+      "description": "Read More Make Money Doing Nothing Honeygain",
+      "link": "file:///android_asset/guide/guide13.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "Honeygain Referral Code For Free $5",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/7.webp",
+      "description": "Read More Honeygain Referral Code For Free $5 Bonus",
+      "link": "file:///android_asset/guide/guide14.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "Honeygain Lets Users Earn Passive Income",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read oneygain Lets Users Earn Passive Income In Minutes",
+      "link": "file:///android_asset/guide/guide15.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Tutorial",
+      "title": "Earn Money Online With Honeygain",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More Earn Money Online With Honeygain",
+      "link": "file:///android_asset/guide/guide16.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Tutorial",
+      "title": "Complete Tutorial Earn Money Honeygain",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More Complete Tutorial Earn Money Honeygain",
+      "link": "file:///android_asset/guide/guide17.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Tutorial",
+      "title": "Downloads App Honeygain Earn Money",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More Downloads App Honeygain Earn Money",
+      "link": "file:///android_asset/guide/guide18.html"
+    }
+  ]
+}
