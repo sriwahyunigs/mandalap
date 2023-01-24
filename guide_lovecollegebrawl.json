@@ -1,0 +1,196 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob": "ca-app-pub-4264468460916165/5860632500",
+      "open_ads_alien": "null",
+      "switch_open_ads": "1",
+
+      "main_ads_banner": "ca-app-pub-4264468460916165/1350541853",
+      "main_ads_intertitial": "ca-app-pub-4264468460916165/7644487463",
+      "main_ads_natives": "ca-app-pub-4264468460916165/9692066301",
+
+      "backup_ads_banner": "dd52b209a357ddbc",
+      "backup_ads_intertitial": "96393a77d2cb45a0",
+      "backup_ads_natives": "null",
+
+      "interval_intertitial": "0",
+      "counter_intertitial": "0",
+
+      "switch_banner_natives_ads": "2",
+      "start_position_native_ads": "2",
+      "interval_native_ads": "3",
+
+      "random_list": "0",
+      "on_off_category": "0",
+      "on_off_moreapp": "1",
+
+      "one_signal_api_key": "null",
+      "link_moreapp": "https://play.google.com/store/apps/developer?id=Mandala+Pro",
+
+      "child_direct_gdpr": "true",
+
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+
+      "protect_app": "false",
+      "base_64_license_key": "null",
+
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id": 2,
+      "title": "Mercedes Benz Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/ywguAxBRKSXh7Lp78gRSqRXRrtZ9yyIcKDupDXMCiDdo5FIRoZh-nD49E6hLesK9pn0=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.mercedesbenzwallpaperhd"
+    },
+    {
+      "id": 1,
+      "title": "PROPS Id Sakura School Simulator",
+      "image": "https://play-lh.googleusercontent.com/i9w0EYM1PTM5oMuD9ODCN4hy7X-ucJvAxgG6j_DoYmZUillwEI80nHCx3nX3lee6Rpw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.sakuraschoolsimulatorpropsidblink"
+    }
+  ],
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/gambar/ic_awal.webp"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "The First Introductions",
+      "image": "file:///android_asset/gambar/ic_awal.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More College Brawl has been hotly discussed lately",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Review Collage Brawl Apps",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More College Brawl app is an adventure game wrapped in adult elements developed by Supercell",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "How To Instal Collage Brawl On Smartphone",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More After downloading, you can immediately install the College Brawl APK",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "How to Play College Brawl Forbidden Game",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More In this combo fight game, you become a handsome male character named Ken",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Key Features of College Brawl Game",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More College Brawl 2023 has a number of key features that make your playing experience more enjoyable",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Risks of Downloading and Installing Third",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More The most important thing you should understand before playing the College Brawl app is that there",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "College Brawl game Guide on PC",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More Welcome to this app, you will find how to install and play this game",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "College Brawl Installation Tutorial Mod Apk",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More very third-party application that is downloaded manually, needs to be done with the installation process first so that the game",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Advantages of Using College Brawl Apk",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More Each mod version of the application will certainly provide more benefits compared to using the original version",
+      "link": "file:///android_asset/guide/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Tips for Upgrading the Old Version",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More After you see some of the differences and features of the old version of College Brawl apk girl",
+      "link": "file:///android_asset/guide/guide10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "Differences College Brawl Apk Mod",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More Even though there are only different versions, there are some significant differences",
+      "link": "file:///android_asset/guide/guide11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "How to Download Collage Brawl",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More only provides information about College Brawl as an adult game choice",
+      "link": "file:///android_asset/guide/guide12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "Thank You",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Read More You can make College Brawl MOD APK the best light game to fill your spare time",
+      "link": "file:///android_asset/guide/guide13.html"
+    }
+  ]
+}
