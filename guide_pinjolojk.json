@@ -1,0 +1,259 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob": "ca-app-pub-4264468460916165/4263376153",
+      "open_ads_alien": "null",
+      "switch_open_ads": "1",
+
+      "main_ads_banner": "ca-app-pub-4264468460916165/6099487412",
+      "main_ads_intertitial": "ca-app-pub-4264468460916165/6850280544",
+      "main_ads_natives": "ca-app-pub-4264468460916165/4224117207",
+
+      "backup_ads_banner": "dd52b209a357ddbc",
+      "backup_ads_intertitial": "96393a77d2cb45a0",
+      "backup_ads_natives": "null",
+
+      "interval_intertitial": "0",
+      "counter_intertitial": "0",
+
+      "switch_banner_natives_ads": "2",
+      "start_position_native_ads": "2",
+      "interval_native_ads": "3",
+
+      "random_list": "0",
+      "on_off_category": "0",
+      "on_off_moreapp": "1",
+
+      "one_signal_api_key": "null",
+      "link_moreapp": "https://play.google.com/store/apps/developer?id=Mandala+Pro",
+
+      "child_direct_gdpr": "true",
+
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+
+      "protect_app": "false",
+      "base_64_license_key": "null",
+
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id": 5,
+      "title": "How to Improve Your Sex Life",
+      "image": "https://play-lh.googleusercontent.com/xw4YOM0OnX3WnGVkwmUX2NM3jWzcV8HXMhP9IsA7gfUa-qju8ZmYC1CPJPwl_T3CYlA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.howtoimproveyoursexlife"
+    },
+    {
+      "id": 4,
+      "title": "love college girl brawl hint",
+      "image": "https://play-lh.googleusercontent.com/zYFo-J9GiQegxyzl07rWXrGvgP7LZnjin_PJ-P5_Mb8fuiMyj1udPpDsSEQ8k5VDxMU=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.lovecollegegirlbrawlhint"
+    },
+    {
+      "id": 3,
+      "title": "Guide Honey Gain - Earn Money",
+      "image": "https://play-lh.googleusercontent.com/ArgSpwgbt7ur68LfKiDeoGVkP46OeEIQrZxm7REAIiazHayvx_Y2CzfQxu9l5T5yMQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.guidehoneygainearnmoney"
+    },
+    {
+      "id": 2,
+      "title": "Mercedes Benz Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/ywguAxBRKSXh7Lp78gRSqRXRrtZ9yyIcKDupDXMCiDdo5FIRoZh-nD49E6hLesK9pn0=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.mercedesbenzwallpaperhd"
+    },
+    {
+      "id": 1,
+      "title": "PROPS Id Sakura School Simulator",
+      "image": "https://play-lh.googleusercontent.com/i9w0EYM1PTM5oMuD9ODCN4hy7X-ucJvAxgG6j_DoYmZUillwEI80nHCx3nX3lee6Rpw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.sakuraschoolsimulatorpropsidblink"
+    }
+  ],
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/gambar/ic_awal.webp"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Apa itu Pinjaman Online",
+      "image": "file:///android_asset/gambar/ic_awal.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Saat ini masyarakat Indonesia semakin mudah mendapatkan pinjaman dengan adanya layanan pinjaman online",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Pinjaman Online",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Pinjaman online menjadi pilihan manusia modern untuk memenuhi kebutuhan karena berbagai alasan",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Apakah Pinjaman Online Aman?",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Apakah Pinjaman Online Aman?",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Dokumen Pengajuan",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Dokumen Pengajuan",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Syarat Pengajuan",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Syarat Pengajuan",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Pahami Ada Data Di Ponsel Yang Diambil",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Pahami Bahwa Ada Data Di Ponsel Yang Diambil",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Perhitungkan Bunga Pinjaman Online",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Perhitungkan Bunga Pinjaman Online",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Keunggulan Pinjaman Online",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Keunggulan Pinjaman Online",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Mengetahui Berapa Biaya Pinjaman",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Mengetahui Berapa Biaya Pinjaman",
+      "link": "file:///android_asset/guide/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Tips Memilih Pinjaman Online Terpercaya",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Jaminan merupakan salah satu syarat mutlak mengajukan pinjaman melalui institusi atau perusahaan",
+      "link": "file:///android_asset/guide/guide10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "Tips Agar Terhindar dari Penipuan",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Cara membedakan pinjol ilegal dan legal Lantas, bagaimana cara membedakan-nya",
+      "link": "file:///android_asset/guide/guide11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "Pinjaman Modal Tanpa Jaminan",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Pinjaman online memiliki daya tarik utama yang sulit untuk ditemui pada produk-produk kredit konvensional",
+      "link": "file:///android_asset/guide/guide12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "Membedakan Pinjol Legal & Ilegal",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Pinjaman online tidak hanya membebankan biaya bunga saja, ada biaya lain yang harus dibayar oleh peminjam",
+      "link": "file:///android_asset/guide/guide13.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "Gunakan Aplikasi Pinjaman Online Terpercaya",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Tidak bisa dipungkiri bahwa menjamurnya pinjaman online selaras dengan meningkatnya kebutuhan",
+      "link": "file:///android_asset/guide/guide14.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "Pinjaman Online yang Aman dan Legal",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Jaminan merupakan salah satu syarat mutlak mengajukan pinjaman melalui institusi atau perusahaan",
+      "link": "file:///android_asset/guide/guide15.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Tutorial",
+      "title": "Perbedaan Pinjol dan Pinjaman di Bank",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Perbedaan Mendasar Pinjaman Online dan Pinjaman Perseorangan di Bank",
+      "link": "file:///android_asset/guide/guide16.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Tutorial",
+      "title": "7 Aplikasi Pinjaman Online Terbaik",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "7 Aplikasi Pinjol Terbaik yang Sudah Diawasi OJK",
+      "link": "file:///android_asset/guide/guide17.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Tutorial",
+      "title": "Cara Cek Pinjol Legal atau Ilegal",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Cara Cek Pinjol Legal atau Ilegal",
+      "link": "file:///android_asset/guide/guide18.html"
+    }
+  ]
+}
