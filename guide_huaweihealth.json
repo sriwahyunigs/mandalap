@@ -1,0 +1,277 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob": "ca-app-pub-4264468460916165/4651185120",
+      "open_ads_alien": "null",
+      "switch_open_ads": "1",
+
+      "main_ads_banner": "ca-app-pub-4264468460916165/5149862669",
+      "main_ads_intertitial": "ca-app-pub-4264468460916165/3836780991",
+      "main_ads_natives": "ca-app-pub-4264468460916165/7277348469",
+
+      "backup_ads_banner": "dd52b209a357ddbc",
+      "backup_ads_intertitial": "96393a77d2cb45a0",
+      "backup_ads_natives": "null",
+
+      "interval_intertitial": "0",
+      "counter_intertitial": "0",
+
+      "switch_banner_natives_ads": "2",
+      "start_position_native_ads": "2",
+      "interval_native_ads": "3",
+
+      "random_list": "0",
+      "on_off_category": "0",
+      "on_off_moreapp": "1",
+
+      "one_signal_api_key": "null",
+      "link_moreapp": "https://play.google.com/store/apps/developer?id=Mandala+Pro",
+
+      "child_direct_gdpr": "true",
+
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+
+      "protect_app": "false",
+      "base_64_license_key": "null",
+
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id": 5,
+      "title": "How to Improve Your Sex Life",
+      "image": "https://play-lh.googleusercontent.com/xw4YOM0OnX3WnGVkwmUX2NM3jWzcV8HXMhP9IsA7gfUa-qju8ZmYC1CPJPwl_T3CYlA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.howtoimproveyoursexlife"
+    },
+    {
+      "id": 4,
+      "title": "love college girl brawl hint",
+      "image": "https://play-lh.googleusercontent.com/zYFo-J9GiQegxyzl07rWXrGvgP7LZnjin_PJ-P5_Mb8fuiMyj1udPpDsSEQ8k5VDxMU=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.lovecollegegirlbrawlhint"
+    },
+    {
+      "id": 3,
+      "title": "Guide Honey Gain - Earn Money",
+      "image": "https://play-lh.googleusercontent.com/ArgSpwgbt7ur68LfKiDeoGVkP46OeEIQrZxm7REAIiazHayvx_Y2CzfQxu9l5T5yMQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.guidehoneygainearnmoney"
+    },
+    {
+      "id": 2,
+      "title": "Mercedes Benz Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/ywguAxBRKSXh7Lp78gRSqRXRrtZ9yyIcKDupDXMCiDdo5FIRoZh-nD49E6hLesK9pn0=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.mercedesbenzwallpaperhd"
+    },
+    {
+      "id": 1,
+      "title": "PROPS Id Sakura School Simulator",
+      "image": "https://play-lh.googleusercontent.com/i9w0EYM1PTM5oMuD9ODCN4hy7X-ucJvAxgG6j_DoYmZUillwEI80nHCx3nX3lee6Rpw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.mandalapro.sakuraschoolsimulatorpropsidblink"
+    }
+  ],
+
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/gambar/ic_awal.webp"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "What is Huawei Health",
+      "image": "file:///android_asset/gambar/ic_awal.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More What is Huawei Health",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Sync Huawei Health with Strava",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More Sync Huawei Health with Strava",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "How to export activity data Huawei",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More How How to export activity data Huawei",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "How to upload Huawei Health data",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More How to upload Huawei Health data",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Sync Huawei Health with Strava",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/5.webp",
+      "description": "Read More Sync Huawei Health with Strava",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Operation and Safety Huawei",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/6.webp",
+      "description": "Read More Operation and Safety Huawei",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Adding users in the Huawei Health app",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Adding users in the Huawei Health app",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "How to export activity data",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More How to export activity data",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "How to login to Huawei Health app",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More How to login to Huawei Health app",
+      "link": "file:///android_asset/guide/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "How to upload Huawei Health",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More How to upload Huawei Health",
+      "link": "file:///android_asset/guide/guide10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "Huawei Health app Review",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/5.webp",
+      "description": "Read More Huawei Health app Review",
+      "link": "file:///android_asset/guide/guide11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "Sync Huawei Health with Strava",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/6.webp",
+      "description": "Read More Sync Huawei Health with Strava",
+      "link": "file:///android_asset/guide/guide12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "Sync Huawei Health with Strava",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More Sync Huawei Health with Strava",
+      "link": "file:///android_asset/guide/guide13.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "How to Download App Huawei Health",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More How to Download App Huawei Health",
+      "link": "file:///android_asset/guide/guide14.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "Compete with Friends",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Read More Compete with Friends",
+      "link": "file:///android_asset/guide/guide15.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Tutorial",
+      "title": "Contact a Doctor",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/4.webp",
+      "description": "Read More Contact a Doctor",
+      "link": "file:///android_asset/guide/guide16.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Tutorial",
+      "title": "Start a Workout",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/5.webp",
+      "description": "Read More Start a Workout",
+      "link": "file:///android_asset/guide/guide17.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Tutorial",
+      "title": "Tweak Your Active Time Target",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/6.webp",
+      "description": "Read More Tweak Your Active Time Target",
+      "link": "file:///android_asset/guide/guide18.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Tutorial",
+      "title": "Participate in a Global Challenge",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Read More Participate in a Global Challenge",
+      "link": "file:///android_asset/guide/guide19.html"
+    },
+    {
+      "id": 20,
+      "name_category": "Tutorial",
+      "title": "Add Your Favorite Food Items",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Read More Add Your Favorite Food Items",
+      "link": "file:///android_asset/guide/guide20.html"
+    }
+  ]
+}
